@@ -41,4 +41,4 @@ Python | Scikit-learn | Pandas | TF-IDF | NLP | Machine Learning
 ## ▶️ Run the Project
 ```bash
 source ../Day-01-Titanic/venv/bin/activate
-python3 run_spam_classifier.py
+python3 run_spam_classifier.py### Update: Improved documentation formatting
