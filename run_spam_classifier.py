@@ -88,4 +88,4 @@ plt.title(f"Confusion Matrix — {best_name}")
 plt.tight_layout()
 plt.savefig(FIG_OUT, dpi=150)
 plt.close()
-print(f"Saved confusion matrix as {FIG_OUT}")
+print(f"Saved confusion matrix as {FIG_OUT}")__version__ = '1.1.0'
